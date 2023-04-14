@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @obvTiger
-- 👀 I’m interested in coding. Bugreporting
-- 🌱 I’m currently learning Maven
+- 👀 I’m interested in coding social media Network
+- 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on Minecraft Servers
-- 📫 How to reach me github

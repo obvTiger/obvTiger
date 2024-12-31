@@ -3,43 +3,43 @@
 
 I am part of [Team Epilogue](https://epilogue.team).
 
-Hi there! 👋 I'm currently working on a variety of exciting projects that combine innovation, creativity, and problem-solving. Take a look below or visit my personal website at [wireway.ch](https://wireway.ch)!
+Hi there! I'm currently working on a variety of exciting projects that combine innovation, creativity, and problem-solving. Take a look below or visit my personal website at [wireway.ch](https://wireway.ch)!
 
 ---
 
-🚀 **Ongoing Projects**  
+**Ongoing Projects**  
 
-- **🔗 Unsend**  [unsend.wireway.ch](https://unsend.wireway.ch) (in development)
+- **Unsend**  [unsend.wireway.ch](https://unsend.wireway.ch) (in development)
   A secure and user-friendly chatting application with a focus on privacy and simplicity.  
 
-- **⏱️ Timelens**  [timelens.wireway.ch](https://timelens.wireway.ch)
+- **⏱Timelens**  [timelens.wireway.ch](https://timelens.wireway.ch)
   Time tracking software to help individuals and teams stay productive and organized.  
 
-- **📽️ Epilogue Video**  [epilogue.video](https://epilogue.video) (in development)
+- **Epilogue Video**  [epilogue.video](https://epilogue.video) (in development)
   A modern video streaming platform delivering seamless and reliable streaming experiences.  
 
-- **🤖 Watchtower**  
+- **Watchtower**  
   An AI-powered tool for detecting and classifying content types with precision.  
 
-- **🎮 Cardinal**   [bot.epilogue.team](https://bot.epilogue.team) (soon)
+- **Cardinal**   [bot.epilogue.team](https://bot.epilogue.team) (soon)
   An AI-driven Discord Bot which replaces the need for any existing one.
 
-- **📤 Streamshare**  [streamshare.wireway.ch](https://streamshare.wirway.ch)
+- **Streamshare**  [streamshare.wireway.ch](https://streamshare.wirway.ch)
   A file-sharing service that bypasses the 100MB limit imposed by Cloudflare for effortless sharing.  
 
-- **🌍 Merged**  [merged.games](https://merged.games)
+- **Merged**  [merged.games](https://merged.games)
   An international Minecraft gaming network uniting players from around the world.  
-  🛠️ We’re looking for contributors to help build Merged.games. Join us at the Website!
+  🛠We’re looking for contributors to help build Merged.games. Join us at the Website!
 
-- **🛡️ Shield-break.net**  
+- **Shield-break.net**  
   A German Minecraft gaming network fostering community and competitive gameplay.  
 
-- **🤪 Gippity.chat**  [gippity.chat](https://gippity.chat)
+- **Gippity.chat**  [gippity.chat](https://gippity.chat)
   An AI which intentionally answers every question incorrectly! I only made the Ai part and the Backend.
 
 ---
 
-🛠️ **Additional Notable Projects**  
+🛠**Additional Notable Projects**  
 
 - **MPGP (Multiplayer Game Protocol)**  
   A gaming-focused protocol enabling unlimited scalability by managing connections across multiple servers. Features "Loosely Regionized Auto Resizing," dynamically grouping players and starting/stopping servers as needed.  
@@ -52,7 +52,7 @@ Hi there! 👋 I'm currently working on a variety of exciting projects that comb
 
 ---
 
-💻 **Tech Stack**  
+**Tech Stack**  
 
 - **Programming Languages:** JavaScript, PHP, TypeScript, Python, Java  
 - **Databases:** MariaDB  

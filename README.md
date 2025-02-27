@@ -25,7 +25,7 @@ Hi there! I'm currently working on a variety of exciting projects that combine i
   An AI-driven Discord Bot which replaces the need for any existing one.
 
 - **Streamshare**  [streamshare.wireway.ch](https://streamshare.wirway.ch)
-  A file-sharing service that bypasses the 100MB limit imposed by Cloudflare for effortless sharing.  
+  A file-sharing service.
 
 - **Merged**  [merged.games](https://merged.games)
   An international Minecraft gaming network uniting players from around the world.  

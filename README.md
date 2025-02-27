@@ -1,5 +1,5 @@
 🌟 Welcome to My GitHub Profile! 🌟  
-**Fullstack Programmer | AI Innovator | Game Developer**  
+**Fullstack Programmer | LLM Trainer | Game Developer**  
 
 I am part of [Team Epilogue](https://epilogue.team).
 
@@ -11,9 +11,6 @@ Hi there! I'm currently working on a variety of exciting projects that combine i
 
 - **Unsend**  [unsend.wireway.ch](https://unsend.wireway.ch) (in development)
   A secure and user-friendly chatting application with a focus on privacy and simplicity.  
-
-- **⏱Timelens**  [timelens.wireway.ch](https://timelens.wireway.ch)
-  Time tracking software to help individuals and teams stay productive and organized.  
 
 - **Epilogue Video**  [epilogue.video](https://epilogue.video) (in development)
   A modern video streaming platform delivering seamless and reliable streaming experiences.  
@@ -29,7 +26,7 @@ Hi there! I'm currently working on a variety of exciting projects that combine i
 
 - **Merged**  [merged.games](https://merged.games)
   An international Minecraft gaming network uniting players from around the world.  
-  🛠We’re looking for contributors to help build Merged.games. Join us at the Website!
+  We’re looking for contributors to help build Merged.games. Join us at the Website!
 
 - **Shield-break.net**  
   A German Minecraft gaming network fostering community and competitive gameplay.  
@@ -39,7 +36,7 @@ Hi there! I'm currently working on a variety of exciting projects that combine i
 
 ---
 
-🛠**Additional Notable Projects**  
+🛠**Additional Projects**  
 
 - **MPGP (Multiplayer Game Protocol)**  
   A gaming-focused protocol enabling unlimited scalability by managing connections across multiple servers. Features "Loosely Regionized Auto Resizing," dynamically grouping players and starting/stopping servers as needed.  
@@ -47,14 +44,16 @@ Hi there! I'm currently working on a variety of exciting projects that combine i
 - **Development of Applications Without Libraries**  
   Focused on creating complex applications without relying on external libraries, including an attempt to render 3D objects using only JavaScript and CSS.  
 
-- **Custom Framework**  
+- **Custom Framework**   [blueprint](https://git.eplg.services/epilogue/blueprint)
   An innovative framework with real-time communication and auto-scaling. This framework manages nodes that connect and track authenticated users, enabling ultra-low latency and infinite scalability for real-time applications.  
 
----
+- **Wirecompress**
+  A new lossless compression algorythm which is has the ability to increase the difficulty, making it possible to achieve more compression with more computing power.
+
 
 **Tech Stack**  
 
-- **Programming Languages:** JavaScript, PHP, TypeScript, Python, Java  
-- **Databases:** MariaDB  
-- **Tools & Platforms:** Docker, Custom Deployment Platform  
-- **Frameworks:** Proprietary framework with per-session optimized builds compiling in milliseconds  
+- **Programming Languages:** JavaScript, PHP, TypeScript, Python, Java
+- **Databases:** MariaDB, Postgres
+- **Tools & Platforms:** Docker, Custom Deployment Platform
+- **Frameworks:** Proprietary framework with per-session optimized builds compiling in milliseconds

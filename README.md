@@ -9,7 +9,10 @@ Hi there! I'm currently working on a variety of exciting projects that combine i
 
 **Ongoing Projects**  
 
-- **Unsend**  [unsend.wireway.ch](https://unsend.wireway.ch) (in development)
+- **Lyraea**
+  A new lossless compression algorythm which is has the ability to increase the difficulty, making it possible to achieve more compression with more computing power.
+
+- **Unsend**  [unsend.wireway.ch] (in development)
   A secure and user-friendly chatting application with a focus on privacy and simplicity.  
 
 - **Epilogue Video**  [epilogue.video](https://epilogue.video) (in development)
@@ -46,10 +49,6 @@ Hi there! I'm currently working on a variety of exciting projects that combine i
 
 - **Custom Framework**   [blueprint](https://git.eplg.services/epilogue/blueprint)
   An innovative framework with real-time communication and auto-scaling. This framework manages nodes that connect and track authenticated users, enabling ultra-low latency and infinite scalability for real-time applications.  
-
-- **Wirecompress**
-  A new lossless compression algorythm which is has the ability to increase the difficulty, making it possible to achieve more compression with more computing power.
-
 
 **Tech Stack**  
 

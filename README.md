@@ -9,9 +9,6 @@ Hi there! I'm currently working on a variety of exciting projects that combine i
 
 **Ongoing Projects**  
 
-- **Lyraea**
-  A new lossless compression algorythm which is has the ability to increase the difficulty, making it possible to achieve more compression with more computing power.
-
 - **Unsend**  [unsend.wireway.ch] (in development)
   A secure and user-friendly chatting application with a focus on privacy and simplicity.  
 

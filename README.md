@@ -11,7 +11,7 @@ Hi there! I'm currently working on a variety of exciting projects. Take a look b
 - **Unsend**  [unsend.wireway.ch] (in development)
   A secure and user-friendly chatting application with a focus on privacy and simplicity.
 
-- **Repiped**   [blueprint](https://git.eplg.services/obvtiger/repiped)
+- **Repiped**   [repiped](https://git.eplg.services/obvtiger/repiped)
   Repiped is an alternative to Piped, which mostly uses yt-dlp to obtain data.  
 
 - **Epilogue Video**  [epilogue.video](https://epilogue.video) (in development)

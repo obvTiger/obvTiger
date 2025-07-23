@@ -43,12 +43,6 @@ Hi there! I'm currently working on a variety of exciting projects. Take a look b
 - **MPGP (Multiplayer Game Protocol)**  
   A gaming-focused protocol enabling unlimited scalability by managing connections across multiple servers. Features "Loosely Regionized Auto Resizing," dynamically grouping players and starting/stopping worker servers as needed.
 
-- **Development of Applications Without Libraries**  
-  Focused on creating complex applications without relying on external libraries, including an attempt to render 3D objects using only JavaScript and CSS.
-
-- **Custom Framework**   [blueprint](https://git.eplg.services/epilogue/blueprint)
-  An innovative framework with real-time communication and auto-scaling. This framework manages nodes that connect and track authenticated users, enabling ultra-low latency and infinite scalability for real-time applications.  
-
 **Tech Stack**  
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Java

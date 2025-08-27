@@ -23,7 +23,7 @@ Hi there! I'm currently working on a variety of exciting projects. Take a look b
 - **Cardinal** (soon)
   Another Discord Bot
 
-- **Streamshare**  [streamshare.wireway.ch](https://streamshare.wirway.ch)
+- **Streamshare**  [streamshare.wireway.ch](https://streamshare.wireway.ch)
   A file-sharing service.
 
 - **Merged**  [merged.games](https://merged.games)

@@ -8,27 +8,17 @@ Hi there! I'm currently working on a variety of exciting projects. Take a look b
 
 **Ongoing Projects**  
 
-- **Unsend**  [unsend.wireway.ch] (in development)
-  A secure and user-friendly chatting application with a focus on privacy and simplicity.
+- **Senden**  in development
+  Senden is going to be an alternative to Discord, which is more privacy friendly and efficient.
 
 - **Repiped**   [repiped](https://git.eplg.services/obvtiger/repiped)
   Repiped is an alternative to Piped, which mostly uses yt-dlp to obtain data.  
 
-- **Epilogue Video**  [epilogue.video](https://epilogue.video) (in development)
+- **Epilogue Video**  [epilogue.video](https://video.epilogue.team) (in development)
   A modern video streaming platform delivering seamless and reliable streaming experiences.  
-
-- **Watchtower**  
-  An AI-powered tool for detecting and classifying content types with precision for the purpose of accurate automated moderation.
-
-- **Cardinal** (soon)
-  Another Discord Bot
 
 - **Streamshare**  [streamshare.wireway.ch](https://streamshare.wireway.ch)
   A file-sharing service.
-
-- **Merged**  [merged.games](https://merged.games)
-  An international Minecraft gaming network uniting players from around the world.  
-  We’re looking for contributors to help build Merged.games. Join us at the Website!
 
 - **Shield-break.net**  
   A German Minecraft gaming network fostering community and competitive gameplay.  
@@ -37,11 +27,6 @@ Hi there! I'm currently working on a variety of exciting projects. Take a look b
   An AI which intentionally answers every question incorrectly! I only made the Ai part and the Backend.
 
 ---
-
-🛠**Additional Projects**  
-
-- **MPGP (Multiplayer Game Protocol)**  
-  A gaming-focused protocol enabling unlimited scalability by managing connections across multiple servers. Features "Loosely Regionized Auto Resizing," dynamically grouping players and starting/stopping worker servers as needed.
 
 **Tech Stack**  
 

@@ -10,7 +10,7 @@ Hi there! I'm currently working on a variety of exciting projects. Take a look b
 **Ongoing Projects**  
 
 - **Senden**  in development
-  Senden is going to be an alternative to Discord, which is more privacy friendly and efficient. - Join my (temporary) Discord for updates https://discord.gg/cvmtbYZCd2
+  Senden is going to be an alternative to Discord, i've worked on for about a year now, which is more privacy friendly and efficient. - Join my (temporary) Discord for updates https://discord.gg/cvmtbYZCd2
 
 - **Repiped**   [repiped](https://git.eplg.services/obvtiger/repiped)
   Repiped is an alternative to Piped, which mostly uses yt-dlp to obtain data.  

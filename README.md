@@ -15,7 +15,10 @@ I run many pro-privacy services like piped, searxng etc. and work on other perso
   A file-sharing service.
 
 - **merged.games**  
-  A Minecraft gaming network focusing on events and SMPs.  
+  A Minecraft gaming network focusing on events and SMPs.
+
+- **gifli** [gifli.pictures](https://gifli.pictures)
+  A privacy oriented gif hosting service (primarily for senden).
 
 ---
 

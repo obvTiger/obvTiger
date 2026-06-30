@@ -1,31 +1,21 @@
-🌟 Welcome to My GitHub Profile! 🌟  
-
-I am part of [Team Epilogue](https://epilogue.team).
-
 Hi there! I'm currently working on a variety of exciting projects. Take a look below or visit my personal website at [wireway.ch](https://wireway.ch)!
-
+I run many pro-privacy services like piped, searxng etc. and work on other personal projects. I am also the founder of https://epilogue.team.
 
 ---
 
 **Ongoing Projects**  
 
-- **Senden**  in development
-  Senden is going to be an alternative to Discord, i've worked on for about a year now, which is more privacy friendly and efficient. - Join my (temporary) Discord for updates https://discord.gg/cvmtbYZCd2
+- **Senden**  [senden.chat](https://senden.chat)
+  Senden is going to be an alternative to Discord, i've worked on for about a year now, which is more privacy friendly and efficient. 
 
-- **Repiped**   [repiped](https://git.eplg.services/obvtiger/repiped)
-  Repiped is an alternative to Piped, which mostly uses yt-dlp to obtain data.  
-
-- **Epilogue Video**  [epilogue.video](https://video.epilogue.team) (in development)
-  A modern video streaming platform delivering seamless and reliable streaming experiences.  
+- **Piped**   [piped.wireway.ch](https://git.eplg.services/obvtiger/piped)
+  Custom Piped fork for fast bugfixes
 
 - **Streamshare**  [streamshare.wireway.ch](https://streamshare.wireway.ch)
   A file-sharing service.
 
-- **Shield-break.net**  
-  A German Minecraft gaming network fostering community and competitive gameplay.  
-
-- **Gippity.chat**  [gippity.chat](https://gippity.chat)
-  An AI which intentionally answers every question incorrectly! I only made the Ai part and the Backend.
+- **merged.games**  
+  A Minecraft gaming network focusing on events and SMPs.  
 
 ---
 
@@ -33,5 +23,6 @@ Hi there! I'm currently working on a variety of exciting projects. Take a look b
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Java
 - **Databases:** MariaDB, Postgres
-- **Tools & Platforms:** Docker, onwireway
-- **Frameworks:** Proprietary framework with per-session optimized builds compiling in milliseconds
+- **Tools & Platforms:** Docker
+- **Frameworks:** NextJS; ElysiaJS
+- **OS:** Linux, macOS 
